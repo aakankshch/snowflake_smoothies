@@ -1,3 +1,4 @@
 #Packages
 snowflake-snowpark-python
 streamlit
+requests
